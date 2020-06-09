@@ -1,0 +1,32 @@
+body {
+
+    display: flex;
+    justify-content:center;
+    background-color:#DECFC8;
+   
+    }
+
+
+main {
+
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    
+}
+
+.imagen{
+    height: 400px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+    padding: 100px;
+   
+  }
+ 
+
+
+
+
